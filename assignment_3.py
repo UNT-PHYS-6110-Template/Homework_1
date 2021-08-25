@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Exam 1 Take-Home Project
+Assignment 3
 The following is a program to simulate the motion of non-interacting particles inside a box
 Time is discretized into small intervals (timesteps), during which the motion of the particles follow some simple physical laws
 Trajectories of particles are simulated as a sequence of a large number of timesteps
